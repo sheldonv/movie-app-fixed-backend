@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "pro2501",
+        "DB_PASSWORD": "vendor777",
+        "DB_NAME": "mern",
+        "JWT_KEY": "this_token_should_be_longer"
+    }
+}
